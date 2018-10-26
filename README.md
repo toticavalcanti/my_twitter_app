@@ -1,6 +1,6 @@
 Social network based on Twitter where the user can be followed by other users, tweet and retweet, like tweets etc.
 
-functionalities
+Functionalities
 
 * Create user profile
 * Edit user profile
