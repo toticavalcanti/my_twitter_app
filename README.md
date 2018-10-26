@@ -21,7 +21,7 @@ Stack
 	* Docker Compose
 - API
 	* Ruby on Rails
-	* Buscas
+	* Search
 		-- Elasticsearch
 	* Background Jobs
 		-- Redis
