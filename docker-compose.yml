@@ -14,17 +14,17 @@ services:
     volumes:
       - redis:/var/lib/redis/data
 
-app:
-  depends_on:
-    - "postgres"
-    - "redis"
-  build: .
-  command: bash start.sh
-  ports:
-    - "3000:3000"
-  volumes:
-    - .:/mytwitter
-    - app-gems:/app-gems
+  app:
+    depends_on:
+      - "postgres"
+      - "redis"
+    build: .
+    command: bash start.sh
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/onebittwitter
+      - app-gems:/app-gems
 
 volumes:
   redis:
