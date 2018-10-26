@@ -29,7 +29,7 @@ gem 'acts_as_follower', github: 'tcocca/acts_as_follower', branch: 'master'
 # Like content
 gem 'acts_as_votable', '~> 0.11.1'
 # Integration with Searchkick
-gem 'searchkick'
+#gem 'searchkick'
 # Cron programming
 gem 'whenever', :require => false
 # Use ActiveModel has_secure_password
