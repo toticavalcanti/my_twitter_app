@@ -2,18 +2,18 @@ Social network based on Twitter where the user can be followed by other users, t
 
 functionalities
 
--Create user profile
--Edit user profile
--Remove user profile
--Folow users
--Feed
--Create tweet
--Delete tweet
--Like tweets
--Update tweets
--Search tweets ou users
--trending topics list
--Retweet
+*Create user profile
+*Edit user profile
+*Remove user profile
+*Folow users
+*Feed
+*Create tweet
+*Delete tweet
+*Like tweets
+*Update tweets
+*Search tweets ou users
+*trending topics list
+*Retweet
 
 Stack
 - Environment
