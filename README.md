@@ -1,4 +1,4 @@
-Social network based on Twitter where the user can be followed by other users, tweet and retweet, like tweets etc.
+This application is a social network based on Twitter where the user can be followed by other users, tweet and retweet, like tweets etc.
 
 Functionalities
 
