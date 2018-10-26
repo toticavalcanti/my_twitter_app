@@ -16,7 +16,7 @@ functionalities
 -Retweet
 
 Stack
-- Ambiente
+- Environment
 	* Docker
 	* Docker Compose
 - API
@@ -26,7 +26,7 @@ Stack
 	* Background Jobs
 		-- Redis
 		-- Sidekiq
-- Cliente
+- Client
 	* React
 		-- Axios
 		-- Redux
