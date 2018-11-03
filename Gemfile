@@ -20,7 +20,7 @@ gem 'rack-cors'
 gem 'rack-attack'
 
 # Use Redis adapter to run Action Cable in production
-gem 'redis', '~> 3.0'
+gem 'redis', '~> 4.0'
 # Result pagination
 gem 'will_paginate', '~> 3.1.0'
 # Authorization
